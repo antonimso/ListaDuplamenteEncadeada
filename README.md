@@ -1,2 +1,4 @@
 # ListaDuplamenteEncadeada
-Lista duplamente Encadeada para Testes
+Lista duplamente Encadeada
+lista encadeada em C++. 
+Assunto Estrutura de dados.
